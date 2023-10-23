@@ -40,7 +40,6 @@ I love to learn more and listen to music.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about Javscript, React.js, Html, Css, Performance.
 - 📫 I am just one mail away - ali.emamfe@gmail.com
-- 😄 Pronouns: Vibrant & Ecstatic! 🎉🌟
 - :partying_face: Fun fact: I love to cook, I love to sing, I love to workout.
 - :wrench: Tools - VSCode, Chatgpt-4, Figma, Slack, Spotify, Docker and the Mighty Terminal Linux (Ubuntu 22.04).
 - :envelope_with_arrow: I Have created Couple of articles - [Behind The Scenes](https://www.linkedin.com/pulse/how-your-website-works-behind-scenes-front-end-side-ali-emam/?trackingId=zdih81TrS%2BuubTA%2FdevgbQ%3D%3D) and [Css Selectors](https://dev.to/alimemam/css-selectors-4agl)
